@@ -1,10 +1,11 @@
 <template>
   <section class="bg-white shadow-xl rounded-xl p-4 sm:p-8 max-w-3xl mx-auto">
+    <h2 class="text-2xl font-semibold mb-6 text-indigo-600">ホーム</h2>
     <div class="flex flex-col items-center">
       <img
         src="/src/assets/me_image.jpg"
         alt="プロフィール画像"
-        class="w-48 sm:w-90 h-48 sm:h-70 rounded-full border-4 border-indigo-500 shadow-md mb-2 sm:mb-4"
+        class="w-48 sm:w-80 h-40 sm:h-60 rounded-full border-4 border-indigo-500 shadow-md mb-2 sm:mb-4"
       />
       <h2 class="text-2xl font-bold text-indigo-600 mb-1 sm:mb-2">岡田 孟</h2>
       <p class="text-gray-700 text-center mb-2 sm:mb-4">
