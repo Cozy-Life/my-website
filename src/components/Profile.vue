@@ -1,14 +1,14 @@
 <template>
-  <section class="bg-white shadow-xl rounded-xl p-8 max-w-3xl mx-auto">
+  <section class="bg-white shadow-xl rounded-xl p-4 sm:p-8 max-w-3xl mx-auto">
     <div class="flex flex-col items-center">
       <img
         src="/src/assets/me_image.jpg"
         alt="プロフィール画像"
-        class="w-48 sm:w-90 h-48 sm:h-70 rounded-full border-4 border-indigo-500 shadow-md mb-4"
+        class="w-48 sm:w-90 h-48 sm:h-70 rounded-full border-4 border-indigo-500 shadow-md mb-2 sm:mb-4"
       />
-      <h2 class="text-2xl font-bold text-indigo-600 mb-2">岡田 孟</h2>
-      <p class="text-gray-700 text-center mb-4">
-        エンジニア / Vue.js & Tailwind CSS 好き。
+      <h2 class="text-2xl font-bold text-indigo-600 mb-1 sm:mb-2">岡田 孟</h2>
+      <p class="text-gray-700 text-center mb-2 sm:mb-4">
+        ソフトウェアエンジニア
       </p>
     </div>
 
@@ -27,7 +27,7 @@
       </div>
       <div class="bg-indigo-50 rounded-lg p-2 sm:p-4">
         <h3 class="text-sm font-semibold text-indigo-500">好きな言語</h3>
-        <p>JavaScript / TypeScript</p>
+        <p>JavaScript / Java / TypeScript</p>
       </div>
     </div>
   </section>
