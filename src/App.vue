@@ -8,7 +8,7 @@
           :class="activeTab === 'home'
             ? 'border-b-4 border-blue-600 text-blue-700 font-semibold'
             : 'text-gray-600 hover:text-blue-600'"
-          class="pb-3 px-4 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
+          class="pb-3 px-2 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
         >
           ホーム
         </button>
@@ -17,7 +17,7 @@
           :class="activeTab === 'timeline'
             ? 'border-b-4 border-blue-600 text-blue-700 font-semibold'
             : 'text-gray-600 hover:text-blue-600'"
-          class="pb-3 px-4 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
+          class="pb-3 px-2 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
         >
           経歴
         </button>
@@ -26,7 +26,7 @@
           :class="activeTab === 'skill'
             ? 'border-b-4 border-blue-600 text-blue-700 font-semibold'
             : 'text-gray-600 hover:text-blue-600'"
-          class="pb-3 px-4 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
+          class="pb-3 px-2 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
         >
           スキル
         </button>
@@ -35,7 +35,7 @@
           :class="activeTab === 'qualifications'
             ? 'border-b-4 border-blue-600 text-blue-700 font-semibold'
             : 'text-gray-600 hover:text-blue-600'"
-          class="pb-3 px-4 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
+          class="pb-3 px-2 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
         >
           資格
         </button>
@@ -44,7 +44,7 @@
           :class="activeTab === 'contact'
             ? 'border-b-4 border-blue-600 text-blue-700 font-semibold'
             : 'text-gray-600 hover:text-blue-600'"
-          class="pb-3 px-4 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
+          class="pb-3 px-2 sm:px-6 whitespace-nowrap text-sm sm:text-base transition-colors duration-300"
         >
           連絡先
         </button>
