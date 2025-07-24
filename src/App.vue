@@ -1,8 +1,8 @@
 <template>
-  <main class="min-h-screen bg-gray-100 p-8">
+  <main class="min-h-screen bg-gray-100 p-4 sm:p-8">
     <div class="max-w-3xl mx-auto">
       <!-- タブボタン -->
-      <div class="flex flex-wrap sm:flex-nowrap justify-start sm:justify-between gap-2 sm:gap-4 border-b border-gray-300 mb-6 overflow-x-auto">
+      <div class="flex flex-wrap sm:flex-nowrap justify-start sm:justify-between gap-2 sm:gap-4 border-b border-gray-300 mb-3 sm:mb-6 overflow-x-auto">
         <button
           @click="activeTab = 'home'"
           :class="activeTab === 'home'
