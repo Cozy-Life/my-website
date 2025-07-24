@@ -15,7 +15,7 @@
         <a
           href="mailto:your.email@example.com"
           class="text-indigo-700 hover:underline"
-          >your.email@example.com</a
+          >takeshiokada@okatakese.com</a
         >
       </li>
       <li class="flex items-center space-x-3">
@@ -29,11 +29,11 @@
           />
         </svg>
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/Cozy-Life"
           target="_blank"
           rel="noopener noreferrer"
           class="text-indigo-700 hover:underline"
-          >github.com/yourusername</a
+          >github.com/Cozy-Life</a
         >
       </li>
       <li class="flex items-center space-x-3">
@@ -47,11 +47,11 @@
           />
         </svg>
         <a
-          href="https://twitter.com/yourusername"
+          href="https://x.com/CozyDevTake"
           target="_blank"
           rel="noopener noreferrer"
           class="text-indigo-700 hover:underline"
-          >@yourusername</a
+          >@CozyDevTake</a
         >
       </li>
     </ul>

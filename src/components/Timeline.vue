@@ -22,19 +22,29 @@
 <script setup>
 const timeline = [
   {
-    year: '2015',
-    title: '東京大学 入学',
-    description: '情報工学部でプログラミングを学ぶ'
+    year: '2016',
+    title: '横浜国立大学 入学',
+    description: 'プログラミングを学ぶ'
   },
   {
-    year: '2019',
-    title: '株式会社A 入社',
-    description: 'フロントエンドエンジニアとしてVue.js開発に従事'
+    year: '2021',
+    title: '受託システム開発会社に入社',
+    description: '自動倉庫のシステム開発に携わる'
   },
   {
-    year: '2022',
-    title: '株式会社B 転職',
-    description: 'フルスタックエンジニアとしてバックエンドにも挑戦'
+    year: '2023',
+    title: '独立 1社目',
+    description: '証券会社のWebアプリ開発に携わる'
+  },
+  {
+    year: '2024',
+    title: '独立 2社目',
+    description: 'モバイル会社のWebアプリ開発に携わる'
+  },
+  {
+    year: '2025',
+    title: '独立 2社目',
+    description: '上記のシステム開発を継続'
   }
 ]
 </script>
