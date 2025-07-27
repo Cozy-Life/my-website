@@ -1,6 +1,6 @@
 <template>
-  <section class="bg-white shadow-xl shadow-indigo-200/40 rounded-xl p-8 max-w-3xl mx-auto">
-    <h2 class="text-2xl font-semibold mb-6 text-indigo-600">経歴</h2>
+  <section class="bg-white shadow-xl rounded-xl p-4 sm:p-8 max-w-3xl mx-auto">
+    <h2 class="text-2xl font-semibold mb-6 text-blue-700">経歴</h2>
     <div class="relative border-l-4 border-blue-600 pl-8 ml-4 space-y-10 max-w-xl mx-auto">
       <motion
         v-for="(item, index) in timeline"

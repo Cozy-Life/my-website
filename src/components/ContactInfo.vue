@@ -1,10 +1,10 @@
 <template>
-  <section class="bg-white shadow-xl shadow-indigo-200/40 rounded-xl p-8 max-w-3xl mx-auto">
-    <h2 class="text-2xl font-semibold mb-6 text-indigo-600">連絡先</h2>
+  <section class="bg-white shadow-xl rounded-xl p-4 sm:p-8 max-w-3xl mx-auto">
+    <h2 class="text-2xl font-semibold mb-6 text-blue-700">連絡先</h2>
     <ul class="space-y-4">
       <li class="flex items-center space-x-3">
         <svg
-          class="w-6 h-6 text-indigo-500"
+          class="w-6 h-6 text-blue-700"
           fill="currentColor"
           viewBox="0 0 24 24"
         >
@@ -14,13 +14,13 @@
         </svg>
         <a
           href="mailto:your.email@example.com"
-          class="text-indigo-700 hover:underline"
+          class="text-blue-700 hover:underline"
           >takeshiokada@okatakese.com</a
         >
       </li>
       <li class="flex items-center space-x-3">
         <svg
-          class="w-6 h-6 text-indigo-500"
+          class="w-6 h-6 text-blue-700"
           fill="currentColor"
           viewBox="0 0 24 24"
         >
@@ -32,13 +32,13 @@
           href="https://github.com/Cozy-Life"
           target="_blank"
           rel="noopener noreferrer"
-          class="text-indigo-700 hover:underline"
+          class="text-blue-700 hover:underline"
           >github.com/Cozy-Life</a
         >
       </li>
       <li class="flex items-center space-x-3">
         <svg
-          class="w-6 h-6 text-indigo-500"
+          class="w-6 h-6 text-blue-700"
           fill="currentColor"
           viewBox="0 0 24 24"
         >
@@ -50,7 +50,7 @@
           href="https://x.com/CozyDevTake"
           target="_blank"
           rel="noopener noreferrer"
-          class="text-indigo-700 hover:underline"
+          class="text-blue-700 hover:underline"
           >@CozyDevTake</a
         >
       </li>

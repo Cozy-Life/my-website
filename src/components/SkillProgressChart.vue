@@ -1,6 +1,6 @@
 <template>
-    <section class="bg-white shadow-xl shadow-indigo-200/40 rounded-xl p-8 max-w-3xl mx-auto">
-        <h2 class="text-2xl font-semibold mb-6 text-indigo-600">スキル習得推移 </h2>
+    <section class="bg-white shadow-xl rounded-xl p-4 sm:p-8 max-w-3xl mx-auto">
+        <h2 class="text-2xl font-semibold mb-6 text-blue-700">スキル習得推移 </h2>
         <div class="p-8　relative h-[500px]">
             <Line :data="chartData" :options="chartOptions" />
         </div>
